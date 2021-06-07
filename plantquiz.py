@@ -258,10 +258,12 @@ if nag == "Fun with quiz":
         
     
 
-st.sidebar.header("About me")
+st.sidebar.header("Contribute")
 st.sidebar.info(
-        "Author:  Thịnh Cao \n\n"
-        "Github:  https://github.com/nhatthinh253 \n\n"
-        "LinnkedIn: https://linkedin.com/in/nhatthinh253 \n\n"
-       # "Contact: nhatthinh253@gmail.com \n\n"
+        '''This project is contributed and maintained by:   
+        **Thinh Cao**: [GitHub](https://github.com/nhatthinh253) | [LinkedIn](https://linkedin.com/in/nhatthinh253)
+        The source code can be found in this [Github Repo](https://github.com/nhatthinh253/Vietree_Guru).'''
+        
     )
+st.sidebar.header("About")
+st.sidebar.info("This app is maintained by [**Thinh Cao (Jake)**](https://linkedin.com/in/nhatthinh253). You can reach me at nhatthinh253@gmail.com")
