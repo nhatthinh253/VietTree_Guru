@@ -21,7 +21,7 @@ import seaborn as sns
 import wikipedia
 # import pprint
 # import itertools
-# import re
+import re
 # import pke
 # import string
 # from nltk.corpus import stopwords
