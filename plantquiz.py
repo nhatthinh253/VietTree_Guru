@@ -98,14 +98,14 @@ if nag == 'The idea':
 
     st.markdown(f'<h2 style="text-align: left; font-famlily: Arial; color: #282828;">The idea </h2', 
                 unsafe_allow_html=True) 
-    st.markdown('''Trees are vital: they give us  oxygen, store carbon, stabilize the soil, and give life to the world’s wildlife. That’s where I got the idea of creating a plant-identification tool: **Vietree Guru**.
-    
-Reasons for recognizing and knowing more about trees and plants are countless, going from professional reasons to plain curiosity; arborists, landscape architects, foresters, biology students, environment experts, farmers… or simply nature enthusiasts: these are the people VietreeGuru is made for.
+    st.markdown('''Trees play an important role in our life. They contribute to the environment by providing oxygen, improving air quality, climate amelioration, conserving water, preserving soil, and supporting wildlife.
 
-Obviously VietreeGuru is not the first plant-identification tool in the market, but not many plant identifiers are built to recognize trees typical of the Vietnamese ecosystem; scope of VietreeGuru is to fill in this gap, and, furthermore, provide insightful information, and create fun learning experience. After identifying the plant, VietreeGuru returns general information about the classified tree, with a link to a webpage for more detailed specifications, and generates a 10-question quiz to test user’s expertise on the subject.   
+Educating the public, especially students about trees is necessary. This project aims to help people gain more knowledge and understanding of plants and create a fun-learning experience with quiz generated from machine learning.
 
+VietreeGuru is not the first plant-identification tool in the market, but not many plant identifiers are built to recognize trees typical of the Vietnamese ecosystem; scope of VietreeGuru is to fill in this gap, and, furthermore, provide insightful information, and create fun learning experience.
 
-Identification, information, testing: enjoy **VietreeGuru!**
+All you have to do is take a photo of the leaf, VietTree Guru will scan it and tell what it is. The app then provides you with  information about the classified tree together with a 5-multiple-choice-question quiz to test your knowledge.  Let’s enjoy **VietreeGuru!**
+
 ''')
 
 
