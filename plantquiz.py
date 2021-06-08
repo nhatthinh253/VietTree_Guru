@@ -102,9 +102,11 @@ if nag == 'The idea':
 
 Educating the public, especially students about trees is necessary. This project aims to help people gain more knowledge and understanding of plants and create a fun-learning experience with quiz generated from machine learning.
 
+All you have to do is take a photo of the leaf, VietTree Guru will scan it and tell what it is. The app then provides you with  information about the classified tree together with a 5-multiple-choice-question quiz to test your knowledge.
+
 VietreeGuru is not the first plant-identification tool in the market, but not many plant identifiers are built to recognize trees typical of the Vietnamese ecosystem; scope of VietreeGuru is to fill in this gap, and, furthermore, provide insightful information, and create fun learning experience.
 
-All you have to do is take a photo of the leaf, VietTree Guru will scan it and tell what it is. The app then provides you with  information about the classified tree together with a 5-multiple-choice-question quiz to test your knowledge.  Let’s enjoy **VietreeGuru!**
+Let’s enjoy **VietreeGuru!**
 
 ''')
 
