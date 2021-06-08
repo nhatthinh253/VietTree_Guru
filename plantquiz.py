@@ -260,7 +260,7 @@ if nag == "Fun with quiz":
 
 st.sidebar.header("Contribute")
 st.sidebar.info(
-        '''This project is contributed by:   
+        '''This project is contributed by  
         **Thinh Cao (Jake) **: [GitHub](https://github.com/nhatthinh253) | [LinkedIn](https://linkedin.com/in/nhatthinh253)
         The source code can be found in this [Github Repo](https://github.com/nhatthinh253/VietTree_Guru).
         You can reach me at nhatthinh253@gmail.com'''
